@@ -22,7 +22,7 @@ ul {
     background-color: #111;
   }
   .restaurant h1{
-    background-image: url('/images/New\ restaurant.jpg');
+    background-image: url('/images/restaurant.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
